@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/pluralsight/webservice/controllers"
+	"github.com/joyc/gowebservice/controllers"
 )
 
 func main() {
